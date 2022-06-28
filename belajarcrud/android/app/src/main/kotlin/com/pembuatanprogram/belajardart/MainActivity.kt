@@ -1,4 +1,4 @@
-package com.pembuatanprogram.belajarcrud
+package com.pembuatanprogram.belajardart
 
 import io.flutter.embedding.android.FlutterActivity
 
