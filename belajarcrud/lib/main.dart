@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
+//learn to increment number
 int nilai = 0;
 
 class MyApp extends StatefulWidget {
