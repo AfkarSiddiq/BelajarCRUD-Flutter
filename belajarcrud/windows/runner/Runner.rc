@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.pembuatanprogram" "\0"
-            VALUE "FileDescription", "belajarcrud" "\0"
+            VALUE "FileDescription", "belajardart" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "belajarcrud" "\0"
+            VALUE "InternalName", "belajardart" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.pembuatanprogram. All rights reserved." "\0"
-            VALUE "OriginalFilename", "belajarcrud.exe" "\0"
-            VALUE "ProductName", "belajarcrud" "\0"
+            VALUE "OriginalFilename", "belajardart.exe" "\0"
+            VALUE "ProductName", "belajardart" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

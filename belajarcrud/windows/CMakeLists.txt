@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(belajarcrud LANGUAGES CXX)
+project(belajardart LANGUAGES CXX)
 
-set(BINARY_NAME "belajarcrud")
+set(BINARY_NAME "belajardart")
 
 cmake_policy(SET CMP0063 NEW)
 
